@@ -1,5 +1,6 @@
 // Jangan di ubah nanti error
 
+require('https').globalAgent.options.ca = require('ssl-root-cas/latest').create();
 require('./config.js')
 const { WAConnection: _WAConnection } = require('@adiwajshing/baileys')
 const cloudDBAdapter = require('./lib/cloudDBAdapter')
