@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://telegra.ph/file/4637101da58e21976363b.jpg" alt="AlyaaXzy X BOTCAHï¿½" width="300" />
+<img src="https://telegra.ph/file/4637101da58e21976363b.jpg" alt="" width="300" />
 
 </p>
-<h1 align="center">AlyaaXzy X BOTCAHX</h1>
+<h1 align="center">Fell Whatsapp BOT</h1>
 
 <h1 align="center">Jangan lupa kasih stars & follow :)</h1>
 
@@ -24,7 +24,7 @@
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone https://github.com/AlyaaXd/R-Txyz-Botz
+> git clone https://github.com/riztrexx/botwa
 > cd R-Txyz-Botz
 > npm i
 > node run.js
@@ -62,29 +62,18 @@ Simple WhatsApp Bot
 # THANKS TO 
  [`Baileys`](https://github.com/adiwajshing/Baileys)
 
- [`AlyaXzy`](https://wa.me/6289505165400)
-
- [`BOTCAHX`](https://wa.me/6282221792667)
+ [`Riztrexx`](https://wa.me/6281254710232)
 
 # Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
 
 ~ Selamat Memakai~
 
+### Riztrexx stat
+![Ra Github stat](https://github-readme-stats.vercel.app/api?username=riztrexx&theme=midnight-purple&show_icons=true) 
 
-### AlyaaXd stat
-![Ra Github stat](https://github-readme-stats.vercel.app/api?username=AlyaaXd&theme=midnight-purple&show_icons=true) 
+![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=riztrexx&theme=monokai)
 
-![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AlyaaXd&theme=monokai)
-
-![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyaaXd&theme=tokyonight)
-
-
-### BOTCAHX stat
-![Ra Github stat](https://github-readme-stats.vercel.app/api?username=BOTCAHX&theme=midnight-purple&show_icons=true) 
-
-![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=BOTCAHX&theme=monokai)
-
-![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BOTCAHX&theme=tokyonight)
+![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riztrexx&theme=tokyonight)
 
 
 ## Arguments `node . [--options] [<session name>]`
