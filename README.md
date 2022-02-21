@@ -11,12 +11,7 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/AlyaaXd"><img title="Author" src="https://img.shields.io/badge/Author-AlyaaXzy.svg?style=for-the-badge&logo=github" /></a>
-  <h4 align="center">
-  <a href="https://github.com/BOTCAHX"><img title="Author" src="https://img.shields.io/badge/Author-BOTCAHX.svg?style=for-the-badge&logo=github" /></a>
-  <h4 align="center">
-  <a
-  <a href="https://wa.me/6289505165400">SC FREE API KOK GAN >//< </a>
+  <a href="https://wa.me/6281254710232">SC FREE API KOK GAN >//< </a>
 </h4>
 </p>
 
@@ -177,8 +172,5 @@ conn.logger.level = 'debug'
 
 ---------
 
- [![AlyaXd](https://github.com/AlyaaXd.png?size=100)](https://github.com/AlyaaXd) | [![BOTCAHX](https://github.com/BOTCAHX.png?size=100)](https://github.com/BOTCAHX)
+ [![Fell CBOT](https://github.com/riztrexx.png?size=100)](https://github.com/riztrexx)
 ----|----
-[AlyaXd](https://github.com/AlyaaXd) | [BOTCAHX](https://github.com/BOTCAHX)
- Creator | Creator
-
