@@ -1,6 +1,7 @@
 // Jangan di ubah nanti error
 
-require('https').globalAgent.options.ca = require('@coolaj86/urequest');
+require('https')
+require('@coolaj86/urequest')
 require('./config.js')
 const { WAConnection: _WAConnection } = require('@adiwajshing/baileys')
 const cloudDBAdapter = require('./lib/cloudDBAdapter')
