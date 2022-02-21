@@ -1,5 +1,5 @@
 // R-Txzy Recode
-
+process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
 let util = require('util')
 let fetch = require('node-fetch')
 let simple = require('./lib/simple')
