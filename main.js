@@ -1,9 +1,6 @@
 // Jangan di ubah nanti error
-axios.defaults.httpsAgent = new https.Agent({
-   rejectUnauthorized: false,
-});
-var rootCas = require('ssl-root-cas/latest').create();
-require('https').globalAgent.options.ca = rootCas;
+
+require('https').globalAgent.options.ca = require('ssl-root-cas').create();
 require('@coolaj86/urequest')
 require('./config.js')
 const { WAConnection: _WAConnection } = require('@adiwajshing/baileys')
