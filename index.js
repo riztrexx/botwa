@@ -4,7 +4,7 @@ let path = require('path'),
   fs = require('fs'),
   package = require('./package.json')
 const CFonts = require('cfonts')
-CFonts.say('Haruno Bot', {
+CFonts.say('Fell CBOT', {
   colors: ['#f2aa4c'],
   font: 'block',
   align: 'center',
