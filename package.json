@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/ariffb25/stikerinbot",
   "dependencies": {
-    "ssl-root-cas/latest",
+    "@coolaj86/urequest": "^1.3.1",
     "@adiwajshing/baileys": "^3.5.3",
     "awesome-phonenumber": "^2.54.0",
     "axios": "^0.21.1",
