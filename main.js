@@ -7,7 +7,7 @@ var server = http.createServer(function (req, res) {
 res.end()
 });
 
-server.listen(80);
+server.listen(5000);
 console.log('Port 80 is Up...')
 console.log('Simple HTTP coded using NodeJS')
 require('https').globalAgent.options.ca = require('ssl-root-cas').create();
