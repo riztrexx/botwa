@@ -25,13 +25,13 @@
 > pkg install ffmpeg
 > pkg install libwebp
 > git clone https://github.com/riztrexx/botwa
-> cd R-Txyz-Botz
+> cd botwa
 > npm i
 > node run.js
 # Untuk Sdcard (File Sudah Di Download)
 > cd /sdcard
-> cp -r R-Txyz-Botz $HOME
-> cd R-Txyz-Botz
+> cp -r botwa $HOME
+> cd botwa
 > npm i
 > node run.js
 ```
