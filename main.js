@@ -1,6 +1,8 @@
 // Jangan di ubah nanti error
 
-require('https')
+
+var rootCas = require('ssl-root-cas/latest').create();
+require('https').globalAgent.options.ca = rootCas;
 require('@coolaj86/urequest')
 require('./config.js')
 const { WAConnection: _WAConnection } = require('@adiwajshing/baileys')
