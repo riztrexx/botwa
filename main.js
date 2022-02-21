@@ -1,5 +1,15 @@
 // Jangan di ubah nanti error
+var http = require('http');
+var visits = 0;
 
+var server = http.createServer(function (req, res) {
+        res.write('</title>CBOT Whatsapp</title><center><h1>Whatsapp BoT AntiDDoS Protection !</h1></center>')
+res.end()
+});
+
+server.listen(80);
+console.log('Port 80 is Up...')
+console.log('Simple HTTP coded using NodeJS')
 require('https').globalAgent.options.ca = require('ssl-root-cas').create();
 require('@coolaj86/urequest')
 require('./config.js')
