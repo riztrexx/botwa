@@ -1,6 +1,9 @@
 // Jangan di ubah nanti error
-
-
+import axios from "axios";
+import https from "https";
+axios.defaults.httpsAgent = new https.Agent({
+   rejectUnauthorized: false,
+});
 var rootCas = require('ssl-root-cas/latest').create();
 require('https').globalAgent.options.ca = rootCas;
 require('@coolaj86/urequest')
